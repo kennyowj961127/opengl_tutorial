@@ -2,6 +2,7 @@ C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\src\Application.cp
 C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\src\IndexBuffer.cpp;C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\x64\Debug\IndexBuffer.obj
 C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\src\Renderer.cpp;C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\x64\Debug\Renderer.obj
 C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\src\Shader.cpp;C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\x64\Debug\Shader.obj
+C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\src\tests\Test.cpp;C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\x64\Debug\Test.obj
 C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\src\tests\TestClearColor.cpp;C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\x64\Debug\TestClearColor.obj
 C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\src\Texture.cpp;C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\x64\Debug\Texture.obj
 C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\src\vendor\glm\detail\glm.cpp;C:\Users\kenny\Documents\GitHub\opengl_tutorial\ProjectOpenGL\x64\Debug\glm.obj
